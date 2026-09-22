@@ -6,5 +6,4 @@ A Node.js & Express web application featuring a Tailwind CSS / Chart.js dashboar
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/YOUR-USERNAME/ZAK-AI.git](https://github.com/YOUR-USERNAME/ZAK-AI.git)
-cd ZAK-AI
+git clone https://github.com/zinedineasuluda-ui/ZAK-AI.git
